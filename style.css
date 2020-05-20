@@ -1,0 +1,72 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4 {
+    font-family: cursive;
+    letter-spacing: 0.2em;
+}
+ul {
+    
+    font-family: sans-serif ;
+    color: black;
+
+}
+body {
+    color: black;
+    font-size: medium;
+    background-image : url("../html/photo.jpg");
+
+
+
+.box-one {
+    background-color: lightsteelblue;
+    padding: 20px;
+    height: 100px;
+    width: 500px;
+    border: 10px 50px purple;
+    margin-bottom: 10px ;
+    border-radius: 1em;
+    }
+
+    
+ 
+    
+.box-two {
+        background-color: whitesmoke;
+        padding: 20px;
+        height: 100px;
+        width: 700px;
+        border: 10px 50px purple;
+        margin-bottom: 10px;
+        border-radius: 1em;
+        }   
+
+.box-three {
+            background-color: lightsteelblue;
+            padding: 20px;
+            height: 100px;
+            width: 500px;
+            border: 10px 50px purple;
+            margin-bottom: 10px;
+            border-radius: 1em;
+            } 
+            
+.box-four {
+            background-color: whitesmoke;
+            padding: 20px;
+            height: 100px;
+            width: 700px;
+            border: 10px 50px black solid;
+            margin-bottom: 10px;
+            border-radius: 1em;
+            }   
+                
+.box-five {
+            background-color: lightsteelblue;
+            padding: 20px;
+            height: 150px;
+            width: 500px;
+            border: 10px 50px purple;
+            margin-bottom: 10px;
+            border-radius: 1em;
+             }
